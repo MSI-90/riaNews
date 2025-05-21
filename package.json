@@ -1,5 +1,16 @@
 {
+  "type": "module",
   "dependencies": {
     "selenium-webdriver": "^4.32.0"
-  }
+  },
+  "name": "rianews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
